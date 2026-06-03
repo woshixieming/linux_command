@@ -42,6 +42,9 @@ pnpm-debug.log*
 *.key
 key
 
+# 部署脚本（敏感信息）
+deploy.sh
+
 # 操作系统
 .DS_Store
 .DS_Store?
