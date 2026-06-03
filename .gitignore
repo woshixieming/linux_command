@@ -24,6 +24,8 @@ Thumbs.db
 .env.*.local
 *.env
 
+.codebuddy
+
 # 日志
 *.log
 npm-debug.log*
